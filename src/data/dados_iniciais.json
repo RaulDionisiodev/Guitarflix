@@ -2,11 +2,11 @@
   "categorias": [
     {
       "titulo": "Aulas",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "link": "https://emt.com.br/",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Aulas Com os melhores Guitarristas",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "url": "http://www.escolasdemusica.com.br/ "
       },
       "videos": [
         {
@@ -44,32 +44,32 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Ao Vivo",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Grandes Apresentações dos melhores artistas",
+        "url": "https://whiplash.net/materias/news_752/307928-blacksabbath.html"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Kiko Loureiro no Programa Instrumental Sesc Brasil",
+          "url": "https://www.youtube.com/watch?v=np3Erai8cNs"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Faiska no Programa Instrumental Sesc Brasil",
+          "url": "https://www.youtube.com/watch?v=ib3rVwFd02Y"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Nosso trio DVD completo",
+          "url": "https://www.youtube.com/watch?v=lUMWfn8tJg0"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Edu Ardanuy no Dr Sin ",
+          "url": "https://www.youtube.com/watch?v=tmZ2-8D2TC4"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Alex Martinho 20 anos ao vivo",
+          "url": "https://www.youtube.com/watch?v=cABEOot_wtU"
         }
       ]
     },
