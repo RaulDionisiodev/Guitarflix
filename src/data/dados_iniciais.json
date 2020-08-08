@@ -5,7 +5,7 @@
       "link": "https://emt.com.br/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Aulas Com os melhores Guitarristas",
+        "text": "Aulas com os melhores Guitarristas",
         "url": "http://www.escolasdemusica.com.br/ "
       },
       "videos": [
@@ -47,7 +47,7 @@
       "titulo": "Ao Vivo",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Grandes Apresentações dos melhores artistas",
+        "text": "Grandes apresentações dos melhores artistas",
         "url": "https://whiplash.net/materias/news_752/307928-blacksabbath.html"
       },
       "videos": [
@@ -74,110 +74,110 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Música Autoral",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Músicas compostas pelos próprios guitarristas",
+        "url": "https://www.clubedamusicaautoral.com.br/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Lari Basilio - New Time",
+          "url": "https://www.youtube.com/watch?v=7F3JLXjNdI0"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Mateus Asato - Time",
+          "url": "https://www.youtube.com/watch?v=r-9fiNDU-Iw"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Cacau Santos - Sonhador",
+          "url": "https://www.youtube.com/watch?v=_LgHXG8tGtA&list=PLB73RYOmRrdoNj5TCya1mhd77qEMNR3k2&index=1"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Loop Original - Army of One",
+          "url": "https://www.youtube.com/watch?v=2X0DFoiDgRk"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Carreira, setup, timbre e outras dicas",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Como entrei na gig - Juliana Vieira e JP Oliveira",
+          "url": "https://www.youtube.com/watch?v=Z8DtU-BwTCY"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Setup com Patrick Souza",
+          "url": "https://www.youtube.com/watch?v=2fSlMHjAmHE"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "A guitarra do Heraldo do monte",
+          "url": "https://www.youtube.com/watch?v=Dzu_cuKqGpw"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Viver de música e evoluir na guitarra - Kiko Loureiro",
+          "url": "https://www.youtube.com/watch?v=HSSY87foPmQ"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Violão",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Performances, aulas e dicas de violão",
+        "url": "https://www.infoescola.com/musica/historia-do-violao/"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Pedacinho do céu (Waldir Azevedo) - Cainã Cavalcante",
+          "url": "https://www.youtube.com/watch?v=uC30dulUOYY"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Truncado - Yamandu Costa",
+          "url": "https://www.youtube.com/watch?v=cdyBOcqTzWA"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Caravelas - Daniel Santiago e Fernando Graciola",
+          "url": "https://www.youtube.com/watch?v=ikDJxvNbrp8"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Tempo de Criança (Dilermando Reis) - Penezzi e Marcos Kaiser",
+          "url": "https://www.youtube.com/watch?v=3j5MGrmryUk"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Samba em prelúdio - Paulinho NOgueira",
+          "url": "https://www.youtube.com/watch?v=M3omYbJXGTA"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Batera, baixo, teclado e outros instrumentos",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "Porque música não é só guitarra",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Harmonize - Hamilton de Holanda Quarteto",
+          "url": "https://www.youtube.com/watch?v=U4blOQlEL1g"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Cálculo renal - Kiko Freitas",
+          "url": "https://www.youtube.com/watch?v=vNNSvCD5n7M"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Paca tatu cotia não - Nelson Farias e Ney Conceição",
+          "url": "https://www.youtube.com/watch?v=KJfNghFX1iw"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Ain't no sunshine - Angelo Torres e Milton Guedes",
+          "url": "https://www.youtube.com/watch?v=k8ojsGQhnAw"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Sambo sim - Guilherme Ribeiro",
+          "url": "https://www.youtube.com/watch?v=FdlTT_AEnUc"
         }
       ]
     }
